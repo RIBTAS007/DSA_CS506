@@ -49,6 +49,6 @@
 
         Output: 2980.958 *as e^8 = 2980.958, where e is the mathematical constant called Euler’s number: e ≈ 2.71828*
         
-Sol. Download the [Solution](solution.o) file. Open terminal and execute it by running `./solution.o` command. Give inputs to get ourputs
+Sol. Download the [Solution](solution.o) file. Open terminal and execute it by running `./solution.o` command. Give inputs to get outputs
 
    ![Output](output/Solution.png)
