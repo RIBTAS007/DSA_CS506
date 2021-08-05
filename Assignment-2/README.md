@@ -23,10 +23,17 @@ exclusive. (That is, these 60 random numbers should not include −0.8 and 0.8).
     
 2. Write a C program to find GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of any two positive integers using command line arguments.
 
-   **Sample input 1**: ./a.out 5 7  <br>
-   **Output 1**: GCD= 1 LCM = 35  <br>
-   **Sample input 2**: ./a.out 10 20  <br>
-   **Output 2**: GCD=10 LCM = 20  <br>
+   Sample input 1): 
+        
+        Input: ./a.out 5 7 
+   
+        Output : GCD= 1 LCM = 35 
+   
+   Sample input 2): 
+   
+        input: ./a.out 10 20 
+   
+        Output: GCD=10 LCM = 20  
    
       Sol2. Download the [Solution2](solution2.o) file. Open terminal and execute it by running `./solution2.o arg1 arg2` command.
 
@@ -35,35 +42,47 @@ exclusive. (That is, these 60 random numbers should not include −0.8 and 0.8).
 3. Write a C program which prints the last **n** lines of its input (the input is given by the user). By default **n** is **2**, let us say, but it can be changed by an optional
 command line argument.
 
-    **Sample input 1**<br>
-    ./a.out <br>
-    aa <br>
-    bb <br>
-    cc <br>
-    dd <br>
-    ee <br>
+    **Sample input 1**:
+    
+         ./a.out
+         aa 
+         bb 
+         cc 
+         dd 
+         ee 
 
-    **Output 1**: <br>
-    dd <br>
-    ee <br>
+    **Output 1**:
+    
+         dd 
+         ee
 
-    **Sample input 2** <br>
-    ./a.out 4 <br>
-    aa <br>
-    bb <br>
-    cc <br>
-    dd <br>
-    eee <br>
-    ffff <br>
-    gg <br>
+    **Sample input 2**:
+    
+        ./a.out 4 
+        aa 
+        bb 
+        cc 
+        dd 
+        eee 
+        ffff 
+        gg 
 
-    **Output 2**: <br>
-    dd <br>
-    eee <br>
-    ffff <br>
-    gg <br>
+    **Output 2**:
+    
+        dd 
+        eee 
+        ffff 
+        gg 
     
     
-   Sol3. Download the [Solution3](solution3.o) file. Open terminal and execute it by running <br> `./solution3.o` <br> `arg1` <br> `arg2` <br>`...`<br> `argn` command.
+   Sol3. Download the [Solution3](solution3.o) file. Open terminal and execute it by running command.
+   
+        ./solution3.o
+        arg1
+        arg2 
+        ...
+        argn 
+        
+     
 
    ![Output3](output/Soluntion3.png)
