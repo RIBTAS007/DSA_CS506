@@ -24,4 +24,4 @@ Refer some test cases below:
  
  Sol. Download the [Solution](solution.o) file. Open terminal and execute it by running "./solution.o" command.Give input and get output. 
 
-     ![Output](output/solution.png)
+   ![Output](output/solution.png)
