@@ -42,5 +42,5 @@ Construct the Huffman code for the character-frequency table, and print the Huff
         
  Sol. Download the [Solution](solution.o) file. Open terminal and execute it by running `./solution.o` command. [data.txt](data.txt) file is present.
 
-    ![Output1a](output/Solution1a.png)
-    ![Output1b](output/Solution1b.png)
+    ![Output1a](output/solution1a.png)
+    ![Output1b](output/solution1b.png)
