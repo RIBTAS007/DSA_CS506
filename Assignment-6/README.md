@@ -103,4 +103,6 @@
     
 Sol. Download the [Solution](solution.o) file. Open terminal and execute it by running `./solution.o` command. Give inputs to get outputs
 
-   ![Output](output/solution.png)
+   ![Output1.1](output/solution1.1.png)
+   ![Output1.2](output/solution1.2.png)
+   ![Output1.3](output/solution1.3.png)
