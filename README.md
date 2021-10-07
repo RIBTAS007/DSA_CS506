@@ -1,6 +1,6 @@
 # Data-Structure-and-Algorithms (CS506)
 
-Hello Everyone, this repo contains all my assignments that I solved while pursuing the course Data Structure and Algorithms (CS506) under the guidance of [Dr. Anil Shukla](https://cse.iitrpr.ac.in/dr-anil-shukla).
+Hello Everyone, this repo contains all my assignments/Projects that I solved while pursuing the course Data Structure and Algorithms (CS506) under the guidance of [Dr. Anil Shukla](https://cse.iitrpr.ac.in/dr-anil-shukla).
 
 ## Assignments and Solution
 
